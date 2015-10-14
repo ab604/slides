@@ -1,6 +1,6 @@
 ---
 title       : Test presentation 2
-subtitle    : Uodated from initial compilation
+subtitle    : Updated a third time
 author      : A.Bailey
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
