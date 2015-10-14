@@ -1,6 +1,6 @@
 ---
 title       : Test presentation 2
-subtitle    : 
+subtitle    : Uodated from initial compilation
 author      : A.Bailey
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -21,6 +21,7 @@ knit        : slidify::knit2slides
 
 ## Slide 2
 
+Add some text now
 
 
 
